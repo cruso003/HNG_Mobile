@@ -20,7 +20,7 @@ Save Mart is a simple shopping app built with Flutter. It displays a list of pro
 
 ## APK Download
 
-Download the APK file for the app [here](https://www.upload-apk.com/yYooLfUVhmaGHFV).
+Download the APK file for the app [here](https://www.upload-apk.com/en/BfgrXlB91nB5Lxy).
 
 ## Setup Instructions
 
