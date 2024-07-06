@@ -1,5 +1,3 @@
-# For Task Two, we modify Task One code by replacing our demo data of 3 products with the product data collected from timbu api.
-
 # Task Two: 
 Create an app that Implements Timbu Api
 Objectives: Create a Timbu account on timbu.cloud . Get your API key (it only views once). Add some products information on your timbu account under Retail Business. Retrieve all products information using the api. Display the products on a screen in a list.
