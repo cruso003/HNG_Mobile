@@ -49,7 +49,7 @@ Follow these instructions to set up and run the app locally.
    ```bash
    git clone https://github.com/cruso003/HNG_Mobile.git
    cd HNG_Mobile
-   cd TaskOne
+   cd TaskTwo
    cd save_mart
    ```
 2. **Get the dependencies:**
